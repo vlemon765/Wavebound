@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: bc1e5cb4d67d06441b3b00d8ecd1d975
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2967899925851790432
+    second: lofiProjs_0
+  - first:
+      213: -1732780684527852836
+    second: lofiProjs_1
+  - first:
+      213: 383150196014236271
+    second: lofiProjs_2
+  - first:
+      213: 4945042421123287726
+    second: lofiProjs_3
+  - first:
+      213: 2221266946957318924
+    second: lofiProjs_4
+  - first:
+      213: 6813264458038726513
+    second: lofiProjs_5
+  - first:
+      213: -75716492644007295
+    second: lofiProjs_6
+  - first:
+      213: -4048112523426107686
+    second: lofiProjs_7
+  - first:
+      213: 6741491067405765190
+    second: lofiProjs_8
+  - first:
+      213: 5215274953248335480
+    second: lofiProjs_9
+  - first:
+      213: -2421284245853654996
+    second: lofiProjs_10
+  - first:
+      213: -1252157698898818743
+    second: lofiProjs_11
+  - first:
+      213: 18552603184870108
+    second: lofiProjs_12
+  - first:
+      213: 7919279161633617510
+    second: lofiProjs_13
+  - first:
+      213: -1588267245048176968
+    second: lofiProjs_14
+  - first:
+      213: -4476935587952131566
+    second: lofiProjs_15
+  - first:
+      213: 8211326580207592274
+    second: lofiProjs_16
+  - first:
+      213: 445170567522770639
+    second: lofiProjs_17
+  - first:
+      213: -5235530638083171936
+    second: lofiProjs_18
+  - first:
+      213: -3340717927848042096
+    second: lofiProjs_19
+  - first:
+      213: -846300670912824588
+    second: lofiProjs_20
+  - first:
+      213: -5830497213336105409
+    second: lofiProjs_21
+  - first:
+      213: -4334389093418500394
+    second: lofiProjs_22
+  - first:
+      213: 687662325788932177
+    second: lofiProjs_23
+  - first:
+      213: 9039881288295360190
+    second: lofiProjs_24
+  - first:
+      213: 5737656936533597272
+    second: lofiProjs_25
+  - first:
+      213: -3612776180949955941
+    second: lofiProjs_26
+  - first:
+      213: -9148006448571391481
+    second: lofiProjs_27
+  - first:
+      213: 6625899833845360068
+    second: lofiProjs_28
+  - first:
+      213: -2883491631820437357
+    second: lofiProjs_29
+  - first:
+      213: -7126825946620818748
+    second: lofiProjs_30
+  - first:
+      213: 6570621364029543857
+    second: lofiProjs_31
+  - first:
+      213: 5160060090313102414
+    second: lofiProjs_32
+  - first:
+      213: 8383610445983183979
+    second: lofiProjs_33
+  - first:
+      213: -4531945344073346555
+    second: lofiProjs_34
+  - first:
+      213: 652713427502017973
+    second: lofiProjs_35
+  - first:
+      213: -6320853903932835528
+    second: lofiProjs_36
+  - first:
+      213: 7929001927652971607
+    second: lofiProjs_37
+  - first:
+      213: 1038082290053215067
+    second: lofiProjs_38
+  - first:
+      213: -5295863240322582498
+    second: lofiProjs_39
+  - first:
+      213: -789919363504499300
+    second: lofiProjs_40
+  - first:
+      213: 6905003407607736140
+    second: lofiProjs_41
+  - first:
+      213: -4657279751825768931
+    second: lofiProjs_42
+  - first:
+      213: 1491315092728902417
+    second: lofiProjs_43
+  - first:
+      213: -6542721721736134722
+    second: lofiProjs_44
+  - first:
+      213: 8315308467692922260
+    second: lofiProjs_45
+  - first:
+      213: 8551265830002766928
+    second: lofiProjs_46
+  - first:
+      213: 6742836761026118984
+    second: lofiProjs_47
+  - first:
+      213: -916446474566066587
+    second: lofiProjs_48
+  - first:
+      213: -1576661986649547226
+    second: lofiProjs_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lofiProjs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a322b6fdb6efc6d0800000000000000
+      internalID: -2967899925851790432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd22f09e52de3f7e0800000000000000
+      internalID: -1732780684527852836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 58
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62cc01c219315500800000000000000
+      internalID: 383150196014236271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa8a4ec1e150a440800000000000000
+      internalID: 4945042421123287726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 111
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b15bcf48683de10800000000000000
+      internalID: 2221266946957318924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f41362de39d8e50800000000000000
+      internalID: 6813264458038726513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c058404003fef0800000000000000
+      internalID: -75716492644007295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade60669b1732d7c0800000000000000
+      internalID: -4048112523426107686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a803968669e8d50800000000000000
+      internalID: 6741491067405765190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 80
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876eb5230f0606840800000000000000
+      internalID: 5215274953248335480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20b4a19eced56ed0800000000000000
+      internalID: -2421284245853654996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9498d5205317f9ee0800000000000000
+      internalID: -1252157698898818743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd23e7a8e79e14000800000000000000
+      internalID: 18552603184870108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666335a707ee6ed60800000000000000
+      internalID: 7919279161633617510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bed38a0b5755f9e0800000000000000
+      internalID: -1588267245048176968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2120fc57dcabed1c0800000000000000
+      internalID: -4476935587952131566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 88
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2532ffbe40e74f170800000000000000
+      internalID: 8211326580207592274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce57a5c5409d2600800000000000000
+      internalID: 445170567522770639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 103
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9d06aaf98a757b0800000000000000
+      internalID: -5235530638083171936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091a6d79eb263a1d0800000000000000
+      internalID: -3340717927848042096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faf01116065144f0800000000000000
+      internalID: -846300670912824588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e423ffca9e51fa0800000000000000
+      internalID: -5830497213336105409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de7678851829d3c0800000000000000
+      internalID: -4334389093418500394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158711eed311b8900800000000000000
+      internalID: 687662325788932177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6ab88e22c147d70800000000000000
+      internalID: 9039881288295360190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 87
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c1429959040af40800000000000000
+      internalID: 5737656936533597272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a4c796437dcddc0800000000000000
+      internalID: -3612776180949955941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7026bed6a90cb0180800000000000000
+      internalID: -9148006448571391481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c52ca91bcce3fb50800000000000000
+      internalID: 6625899833845360068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398088463a7cbf7d0800000000000000
+      internalID: -2883491631820437357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca01a3af8d681d90800000000000000
+      internalID: -7126825946620818748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d29461598f2b50800000000000000
+      internalID: 6570621364029543857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4458ce10573c9740800000000000000
+      internalID: 5160060090313102414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 63
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64f4184841985470800000000000000
+      internalID: 8383610445983183979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502d50988bb4b11c0800000000000000
+      internalID: -4531945344073346555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 73
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bda2627767ee0900800000000000000
+      internalID: 652713427502017973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83931fa1dd0d748a0800000000000000
+      internalID: -6320853903932835528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75494295e39790e60800000000000000
+      internalID: 7929001927652971607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53fe32c752086e00800000000000000
+      internalID: 1038082290053215067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18f58d01705186b0800000000000000
+      internalID: -5295863240322582498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c959c192684a905f0800000000000000
+      internalID: -789919363504499300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 81
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c472253d30083df50800000000000000
+      internalID: 6905003407607736140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e3ec4bdb40e5fb0800000000000000
+      internalID: -4657279751825768931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f84eec2732b410800000000000000
+      internalID: 1491315092728902417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf7fa742459335a0800000000000000
+      internalID: -6542721721736134722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49562a6bef8e56370800000000000000
+      internalID: 8315308467692922260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 71
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054304147f23ca670800000000000000
+      internalID: 8551265830002766928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845486f1f4e539d50800000000000000
+      internalID: 6742836761026118984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e94d379c02843f0800000000000000
+      internalID: -916446474566066587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lofiProjs_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e54e2d6429e1ae0800000000000000
+      internalID: -1576661986649547226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lofiProjs_0: -2967899925851790432
+      lofiProjs_1: -1732780684527852836
+      lofiProjs_10: -2421284245853654996
+      lofiProjs_11: -1252157698898818743
+      lofiProjs_12: 18552603184870108
+      lofiProjs_13: 7919279161633617510
+      lofiProjs_14: -1588267245048176968
+      lofiProjs_15: -4476935587952131566
+      lofiProjs_16: 8211326580207592274
+      lofiProjs_17: 445170567522770639
+      lofiProjs_18: -5235530638083171936
+      lofiProjs_19: -3340717927848042096
+      lofiProjs_2: 383150196014236271
+      lofiProjs_20: -846300670912824588
+      lofiProjs_21: -5830497213336105409
+      lofiProjs_22: -4334389093418500394
+      lofiProjs_23: 687662325788932177
+      lofiProjs_24: 9039881288295360190
+      lofiProjs_25: 5737656936533597272
+      lofiProjs_26: -3612776180949955941
+      lofiProjs_27: -9148006448571391481
+      lofiProjs_28: 6625899833845360068
+      lofiProjs_29: -2883491631820437357
+      lofiProjs_3: 4945042421123287726
+      lofiProjs_30: -7126825946620818748
+      lofiProjs_31: 6570621364029543857
+      lofiProjs_32: 5160060090313102414
+      lofiProjs_33: 8383610445983183979
+      lofiProjs_34: -4531945344073346555
+      lofiProjs_35: 652713427502017973
+      lofiProjs_36: -6320853903932835528
+      lofiProjs_37: 7929001927652971607
+      lofiProjs_38: 1038082290053215067
+      lofiProjs_39: -5295863240322582498
+      lofiProjs_4: 2221266946957318924
+      lofiProjs_40: -789919363504499300
+      lofiProjs_41: 6905003407607736140
+      lofiProjs_42: -4657279751825768931
+      lofiProjs_43: 1491315092728902417
+      lofiProjs_44: -6542721721736134722
+      lofiProjs_45: 8315308467692922260
+      lofiProjs_46: 8551265830002766928
+      lofiProjs_47: 6742836761026118984
+      lofiProjs_48: -916446474566066587
+      lofiProjs_49: -1576661986649547226
+      lofiProjs_5: 6813264458038726513
+      lofiProjs_6: -75716492644007295
+      lofiProjs_7: -4048112523426107686
+      lofiProjs_8: 6741491067405765190
+      lofiProjs_9: 5215274953248335480
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

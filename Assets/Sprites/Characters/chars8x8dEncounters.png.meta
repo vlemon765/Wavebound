@@ -1,0 +1,7614 @@
+fileFormatVersion: 2
+guid: e2d388fb5f0c62a4aa702ee8c205ed1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8909491235188689814
+    second: chars8x8dEncounters_0
+  - first:
+      213: -2295192019544134849
+    second: chars8x8dEncounters_1
+  - first:
+      213: 8310742485779032268
+    second: chars8x8dEncounters_2
+  - first:
+      213: 4097091263648709811
+    second: chars8x8dEncounters_3
+  - first:
+      213: -6319628349210318423
+    second: chars8x8dEncounters_4
+  - first:
+      213: 651911764621924486
+    second: chars8x8dEncounters_5
+  - first:
+      213: -8802398970037816943
+    second: chars8x8dEncounters_6
+  - first:
+      213: -1183705102244584140
+    second: chars8x8dEncounters_7
+  - first:
+      213: -5941382369263704294
+    second: chars8x8dEncounters_8
+  - first:
+      213: 277442615628192553
+    second: chars8x8dEncounters_9
+  - first:
+      213: -6027431683774201222
+    second: chars8x8dEncounters_10
+  - first:
+      213: -8042134186477496552
+    second: chars8x8dEncounters_11
+  - first:
+      213: -2211722507063255870
+    second: chars8x8dEncounters_12
+  - first:
+      213: 3968518828548982432
+    second: chars8x8dEncounters_13
+  - first:
+      213: 2214108358250891029
+    second: chars8x8dEncounters_14
+  - first:
+      213: -2966452454331058587
+    second: chars8x8dEncounters_15
+  - first:
+      213: 5217166145251738547
+    second: chars8x8dEncounters_16
+  - first:
+      213: -7650677635302135314
+    second: chars8x8dEncounters_17
+  - first:
+      213: 7357857972237292374
+    second: chars8x8dEncounters_18
+  - first:
+      213: -3155352544933784446
+    second: chars8x8dEncounters_19
+  - first:
+      213: -1231362362373973546
+    second: chars8x8dEncounters_20
+  - first:
+      213: -3397564780970447938
+    second: chars8x8dEncounters_21
+  - first:
+      213: 6982231829822186656
+    second: chars8x8dEncounters_22
+  - first:
+      213: -142473687168936327
+    second: chars8x8dEncounters_23
+  - first:
+      213: -6272237930008219461
+    second: chars8x8dEncounters_24
+  - first:
+      213: -3355014029662031999
+    second: chars8x8dEncounters_25
+  - first:
+      213: -6485522511929216485
+    second: chars8x8dEncounters_26
+  - first:
+      213: -3821402981279363456
+    second: chars8x8dEncounters_27
+  - first:
+      213: 5225263332443534401
+    second: chars8x8dEncounters_28
+  - first:
+      213: -1522016782586257465
+    second: chars8x8dEncounters_29
+  - first:
+      213: 8943056511543908250
+    second: chars8x8dEncounters_30
+  - first:
+      213: -2196479516139277613
+    second: chars8x8dEncounters_31
+  - first:
+      213: -6730543598317786362
+    second: chars8x8dEncounters_32
+  - first:
+      213: -6761389842050355918
+    second: chars8x8dEncounters_33
+  - first:
+      213: -6620194018321522562
+    second: chars8x8dEncounters_34
+  - first:
+      213: 217368847580807732
+    second: chars8x8dEncounters_35
+  - first:
+      213: -1585568084841615468
+    second: chars8x8dEncounters_36
+  - first:
+      213: -6308146221691217303
+    second: chars8x8dEncounters_37
+  - first:
+      213: 489729940317531756
+    second: chars8x8dEncounters_38
+  - first:
+      213: 5149777802808098218
+    second: chars8x8dEncounters_39
+  - first:
+      213: -4491079450034750978
+    second: chars8x8dEncounters_40
+  - first:
+      213: -6233400458199089039
+    second: chars8x8dEncounters_41
+  - first:
+      213: 8947635130817468486
+    second: chars8x8dEncounters_42
+  - first:
+      213: 1229510414989194495
+    second: chars8x8dEncounters_43
+  - first:
+      213: 8295077798899950607
+    second: chars8x8dEncounters_44
+  - first:
+      213: 5480078174909958472
+    second: chars8x8dEncounters_45
+  - first:
+      213: -4989534261765839048
+    second: chars8x8dEncounters_46
+  - first:
+      213: 2617951712229226248
+    second: chars8x8dEncounters_47
+  - first:
+      213: -6107039025106839913
+    second: chars8x8dEncounters_48
+  - first:
+      213: 2471683849256292527
+    second: chars8x8dEncounters_49
+  - first:
+      213: -2400903020512534438
+    second: chars8x8dEncounters_50
+  - first:
+      213: 216940135789147453
+    second: chars8x8dEncounters_51
+  - first:
+      213: -661925067480711458
+    second: chars8x8dEncounters_52
+  - first:
+      213: -7975895815169613113
+    second: chars8x8dEncounters_53
+  - first:
+      213: 6486896729887814806
+    second: chars8x8dEncounters_54
+  - first:
+      213: 2025456941228718530
+    second: chars8x8dEncounters_55
+  - first:
+      213: -7754469974335313494
+    second: chars8x8dEncounters_56
+  - first:
+      213: -2229776411857931135
+    second: chars8x8dEncounters_57
+  - first:
+      213: 6110897549602949039
+    second: chars8x8dEncounters_58
+  - first:
+      213: -1746205393644493992
+    second: chars8x8dEncounters_59
+  - first:
+      213: 8041244023651300870
+    second: chars8x8dEncounters_60
+  - first:
+      213: 8496266517280234751
+    second: chars8x8dEncounters_61
+  - first:
+      213: 8959524934396380429
+    second: chars8x8dEncounters_62
+  - first:
+      213: 5864126500310137317
+    second: chars8x8dEncounters_63
+  - first:
+      213: 5354625710561832462
+    second: chars8x8dEncounters_64
+  - first:
+      213: -6657070906446564794
+    second: chars8x8dEncounters_65
+  - first:
+      213: -5638908730215887958
+    second: chars8x8dEncounters_66
+  - first:
+      213: 2315589647925876172
+    second: chars8x8dEncounters_67
+  - first:
+      213: -5119581639594776101
+    second: chars8x8dEncounters_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chars8x8dEncounters_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bc0eae21fd4ab70800000000000000
+      internalID: 8909491235188689814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 760
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ba2c7c407d520e0800000000000000
+      internalID: -2295192019544134849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 760
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc82b943240b55370800000000000000
+      internalID: 8310742485779032268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 760
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc33260ccacbd830800000000000000
+      internalID: 4097091263648709811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 760
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a4dccf7b2c48a0800000000000000
+      internalID: -6319628349210318423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6881033cb4e0c0900800000000000000
+      internalID: 651911764621924486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 752
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b1ab16c897d580800000000000000
+      internalID: -8802398970037816943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 752
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435e4e52b72a29fe0800000000000000
+      internalID: -1183705102244584140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 752
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a445c638fb8da0800000000000000
+      internalID: -5941382369263704294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 752
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bd216c69ca9d300800000000000000
+      internalID: 277442615628192553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7244bc71d24a5ca0800000000000000
+      internalID: -6027431683774201222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817dbf20199946090800000000000000
+      internalID: -8042134186477496552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc12c819126e41e0800000000000000
+      internalID: -2211722507063255870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68c1439d2031730800000000000000
+      internalID: 3968518828548982432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 744
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51784cb22d71abe10800000000000000
+      internalID: 2214108358250891029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566f280b53b05d6d0800000000000000
+      internalID: -2966452454331058587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 736
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b38ce5a7f8176840800000000000000
+      internalID: 5217166145251738547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 736
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee96ac8c93553d590800000000000000
+      internalID: -7650677635302135314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653daf697dc5c1660800000000000000
+      internalID: 7357857972237292374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 736
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284d812049fe534d0800000000000000
+      internalID: -3155352544933784446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d9e8947259eee0800000000000000
+      internalID: -1231362362373973546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 728
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbe0e035dc69d0d0800000000000000
+      internalID: -3397564780970447938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 728
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a42af31bded5e060800000000000000
+      internalID: 6982231829822186656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 728
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9769476bfe4d50ef0800000000000000
+      internalID: -142473687168936327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 728
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f02b95d884f8a0800000000000000
+      internalID: -6272237930008219461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fea8104889071d0800000000000000
+      internalID: -3355014029662031999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 720
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12f8ad13abcef5a0800000000000000
+      internalID: -6485522511929216485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 720
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e89353c36a7fac0800000000000000
+      internalID: -3821402981279363456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 720
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144bb24f05dd38840800000000000000
+      internalID: 5225263332443534401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 720
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf53cbdcc5b0eae0800000000000000
+      internalID: -1522016782586257465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9791d0d38e1c1c70800000000000000
+      internalID: 8943056511543908250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 712
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2b81c74898481e0800000000000000
+      internalID: -2196479516139277613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 712
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b2dfcd14e4892a0800000000000000
+      internalID: -6730543598317786362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 712
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d67a413c7ba22a0800000000000000
+      internalID: -6761389842050355918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 712
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70a7c99d985024a0800000000000000
+      internalID: -6620194018321522562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4324a41b0df340300800000000000000
+      internalID: 217368847580807732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa1df3a3eeef9e0800000000000000
+      internalID: -1585568084841615468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a5fd0fe66f478a0800000000000000
+      internalID: -6308146221691217303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eef7839cedbc600800000000000000
+      internalID: 489729940317531756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad719080afa77740800000000000000
+      internalID: 5149777802808098218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef93f92f80b7ca1c0800000000000000
+      internalID: -4491079450034750978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170494a2f438e79a0800000000000000
+      internalID: -6233400458199089039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6485e20beb26c2c70800000000000000
+      internalID: 8947635130817468486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f21d4539101110800000000000000
+      internalID: 1229510414989194495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0429a31f490e1370800000000000000
+      internalID: 8295077798899950607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84901ecb0162d0c40800000000000000
+      internalID: 5480078174909958472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 688
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8376ecc460d91cab0800000000000000
+      internalID: -4989534261765839048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 688
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8077c863635d45420800000000000000
+      internalID: 2617951712229226248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 688
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7961f07fc507f3ba0800000000000000
+      internalID: -6107039025106839913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 688
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ddf78d5f2d4220800000000000000
+      internalID: 2471683849256292527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35bc3377e9b20300800000000000000
+      internalID: 216940135789147453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb2ec78ae50d6f0800000000000000
+      internalID: -661925067480711458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c26a43a30def4190800000000000000
+      internalID: -7975895815169613113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6943b9fe436160a50800000000000000
+      internalID: 6486896729887814806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_55
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 680
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c979c15b5edb1c10800000000000000
+      internalID: 2025456941228718530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184b9a2da2e3e01e0800000000000000
+      internalID: -2229776411857931135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa783e6c1f44ec450800000000000000
+      internalID: 6110897549602949039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e2fe327b34c7e0800000000000000
+      internalID: -1746205393644493992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606f7fdc5dc389f60800000000000000
+      internalID: 8041244023651300870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc988fd16dc8e570800000000000000
+      internalID: 8496266517280234751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0583fe4570a65c70800000000000000
+      internalID: 8959524934396380429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9b0f88bff816150800000000000000
+      internalID: 5864126500310137317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e2637b6b37f4a40800000000000000
+      internalID: 5354625710561832462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6423aa008455d93a0800000000000000
+      internalID: -6657070906446564794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 664
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab02a6d2629eb1b0800000000000000
+      internalID: -5638908730215887958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5913a2480a22020800000000000000
+      internalID: 2315589647925876172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9675d9f9793f8b0800000000000000
+      internalID: -5119581639594776101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe6159acc318b4d9e37ad5736d38d2
+      internalID: 167256345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf8392b17b6034459b7b5b1b2dfe710
+      internalID: -2036399241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 656
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff45ddb402057b4483d717bf2b4b432
+      internalID: 982042678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d854e98ee0bff48885672ac0993a47
+      internalID: 1781944067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ce01b5ea5113d409fd25b089afadb3
+      internalID: 1652390182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86944a1c599673498a808aec9c531a2
+      internalID: 442603039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41251027591abf14abe40d396466ccc0
+      internalID: 2095066109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f167c6772016041935151b4907f0d7
+      internalID: -1097471754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 648
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f885af13d2114384198214905c49b63c
+      internalID: 860958366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73508f6925752040a5bff8c9abe1c52
+      internalID: 1506899438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ec0e3d992bb8c49abe1411be669111
+      internalID: -682347372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71832d72baafe42832287a2fb9e3a3
+      internalID: 464550411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c32f565d8885c4fb64275a19df6f95
+      internalID: -479625672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_82
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add88c8d51bf114c9e8edbabe23ce4a
+      internalID: -566640322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8fe54b31de82242b3882a9ec331d75
+      internalID: 862699010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 632
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726dad7aa6ae41f429ce24666989ce32
+      internalID: 1275738005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 632
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a746439a7ab246ba141fa6e54a67d
+      internalID: 1673417737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 632
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f80f9919a4c8743847f3e1463ba5c7
+      internalID: 1121352936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 632
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857304ed5e570b64682d6f4c43549ea6
+      internalID: -943626425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ee0bc9459bac749be9f1cc001c1b0f
+      internalID: -2111430436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 624
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1536c180d0424b844e083750475fb
+      internalID: -736218211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f92cf65bad47fe4b861ff1e7507360a
+      internalID: 718955155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 624
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728c1ae9427adb5439a7303c1023f97d
+      internalID: 1481481153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 624
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51155f86b91fbcb42a95fb13cb106dd2
+      internalID: -1715520996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e8b00433682e74894a6673a2b0a1b8
+      internalID: 1552953143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_95
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 616
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87ea4b89c92734d96d6202367f940e
+      internalID: -1051183403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 616
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6ed04f4e87e74998a9e740dd0ff4f
+      internalID: 565563064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 616
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d2847effcd82248842e697ba35ad98
+      internalID: 443905348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 616
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd20ef6b4d1e684d981ec943957b2dd
+      internalID: 261350700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dabf803aed95c428f515220bed4c23
+      internalID: -1037110082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_101
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 608
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba689fa40f3a34cafb797ba7ccc221
+      internalID: 358513688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_102
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 608
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ef06836626be49a610f29a0ecdd17
+      internalID: -332672056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85010bd2573ac3141bdd95c697e3a7b9
+      internalID: 586817473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_104
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 608
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb2f518e1b08a42b673c5628e03b37
+      internalID: -1495899810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16206e60926117d45a9de3bb3f8c9c8f
+      internalID: -2126499090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 600
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d82cc32dfd8bc9428aa43b361f87841
+      internalID: -802848298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 600
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ab352c2520ede4b9ae9244dab48d61
+      internalID: -616520828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228a8a55ea1177748a752c1f038c26f0
+      internalID: 833975692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 592
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e4add4135cdc43b3f113d100fced2
+      internalID: -1251507487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9207aeecdd754097dba2b64a2fe99
+      internalID: 709882796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43daadef8b5d8474c81e947da9151ba0
+      internalID: 175003898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a9d291816cd84488587638c3552171
+      internalID: 1505862965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bdfe03545f20d439718305b270befc
+      internalID: 1905796521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74202e2959937c440b27c9d64a7c6c4e
+      internalID: -741426838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_115
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e43f4b275302840ab00010def558f7
+      internalID: -810814423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1959c501396e44a0885de3d8bfeaa
+      internalID: 2124612017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_117
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098632f521bd898479b8ba228bc4a60c
+      internalID: 1076457041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfee5827a6279ea4587528f23657d77e
+      internalID: -541377783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_119
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bea9667fca5624487280597f6f47eb
+      internalID: -30329150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22214260ee9da045b08d670620a3c16
+      internalID: 2011149573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 568
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2458d80d491326a4ba2538cc5df20aac
+      internalID: -677104020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 568
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3f4d5384e9c514c9d3b137716fcc6e
+      internalID: 55771679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 568
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92488f79e144fea40b96ccbb587787bd
+      internalID: -493992138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_124
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 568
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a2a899ff612474392a38e3cb86013e
+      internalID: -2006653839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7edf69d07b2448b8f2737c01e6e66
+      internalID: 1754663490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_127
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 560
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6256f427a6c344193eaaecb15ecf32
+      internalID: -760851366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe020da3fe4b8845ad97ad674b20cee
+      internalID: 1164875302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 560
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173ae5dc525d6e459b20fbcfeb0f201
+      internalID: -870308382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_130
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 560
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b392dfa41ffd4fb7fa431d3e25796
+      internalID: 1528145739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b580a56bbd72b45b9e1ba93ed5da08
+      internalID: 1702357800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_132
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c20a5f62344ed49831b42deacd89b1
+      internalID: -1328587947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_133
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1eb5bc404f4b541926ebfe56c2d355
+      internalID: 1541425092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336d8174274c7c47951069c1096bcec
+      internalID: -244190808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_135
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 552
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9338c1a9f62c45b79e123bbfb7b3b
+      internalID: 2097133307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a087f77a1ed38b941912d04cfce5406c
+      internalID: 1935227601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_138
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 544
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c61bd57865d84844bc18db4c9a9bb02
+      internalID: -664402405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_139
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 544
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba9e86f8e51fe4c8c417436c531311
+      internalID: -222145886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca30da22bae2a49a6069d4f3c82354
+      internalID: 913839121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_141
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 544
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e6d33973e76424a95419e6f31d501e
+      internalID: -2072667189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dc3c5fef86b9143afbed3de12d499d
+      internalID: 1820571001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ec8fdf8e8bc704598754e1e668d0be
+      internalID: -317106113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b1ba7c7b3cb0d429191524d48804f0
+      internalID: -778605335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e8b5bf91e6c9648a2240857972057a
+      internalID: -481453238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9142d46b83a8604fb850d86392f1cba
+      internalID: 1000210657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_148
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 528
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594939d3996e7ee4aa66cf3a137d72ff
+      internalID: 151881835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2092ead8552c4a64fb82a07e8e78cc6d
+      internalID: -1726761244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_150
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 520
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594d4db1c20df8b4fbd3143fdcbe649f
+      internalID: -1993395933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 520
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd61158b77ec2f44b3fb08eff842cb4
+      internalID: -264168846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 520
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c96c353fb86742b94a08c6f240b41
+      internalID: 811327390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_153
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 520
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72025e645dde9d6408f4091dd9e0edbf
+      internalID: 916031683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7af16cb3a1c0346b7b264ab14bc65e
+      internalID: -1343072564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_155
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53b12e3546f5214a88dbd1a33b78819
+      internalID: 1905003232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929d8b55cda72f84ba71342cfad6a6ce
+      internalID: 1759025321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91e3faa90762574ab439cc3f58b5b9c
+      internalID: -1515617280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_158
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed868c3b6b132541885915fdfc0fab1
+      internalID: 981643134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9057c509a619243be35cf8d2faf711
+      internalID: 143278042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_160
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad7b2935b121de4d8c425630558191c
+      internalID: -1702008337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45ed80113be0c946b1b426c79fbe83c
+      internalID: -1014879461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deac1e717ba080f48aad6a6230f3e6a6
+      internalID: -1980227019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_163
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 504
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8d2d56f65352c4b987271747d3d5bc
+      internalID: 1900806895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf5fedbc82cf2a4c9ad3699b109dc5f
+      internalID: 737084478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_165
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40c8f357dbcc6343835a58b9aed39f9
+      internalID: -1773717304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb5cd991ddd3742923d596ea7db91e
+      internalID: -112421885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739800d929355144aabd79995d925fe
+      internalID: 1252483676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_168
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d8bf8ebba653043af83729fbbe117d
+      internalID: 1581667378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3a5d0632130e8449e3f2d935b6fa70
+      internalID: 1386614503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_170
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3174c26de04674f9fdf6c1a38c54c5
+      internalID: 964732389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_171
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c48c460b76d0c54baa625098cf6db91
+      internalID: 1078081805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_172
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f267e7012cc64b83fb6e1928fea3b
+      internalID: 1259680549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_173
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd13079ed17c4a4db1f9443f2ef3479
+      internalID: 1191305252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465b80b781f79549be167ba4c613340
+      internalID: -563629954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b4a79d91523544d808f576dbaef697
+      internalID: -13685018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_176
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feda36a46c761a4e9d8bef545216bb8
+      internalID: -1644751455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4550f77f6fb9cf4b9e1ed0e4ffd9fcd
+      internalID: 1512510373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f852ffc1a7ea4389afc49935798ba
+      internalID: -1172327735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_179
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f194bd12ecf273c4ea7cbfd1087bc4f6
+      internalID: -1760476885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_180
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ce5dcc1778e9949a35eb732e77f553
+      internalID: 1723239372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad7d5bf21a631438263cb38831509c
+      internalID: 64092881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_182
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dfb26a9c45270449cfac6b3c0221fd
+      internalID: -879990233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_183
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a0b0aac9ea68b4ba022f56f7b668ce
+      internalID: 547910315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fff1d267c2b3904ab06b8c56a888745
+      internalID: -1670289818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_185
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f4e206a84416498a7a9bba5314cd1
+      internalID: 115513304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_186
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 472
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26770a22eb7d8147b924dc1958b2416
+      internalID: -1850455893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47278a313d9b6b646882b65be34af9bf
+      internalID: 1993346775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_188
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809d82960552a3a488690705f7449e34
+      internalID: -1724760977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_189
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9d925def39de42a23189f67d6d5cd
+      internalID: 2136636560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d996e1ca4ce5b2418b4738183da642c
+      internalID: -1842377382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_191
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6857ddc87f9b4d45a9487e3932135b9
+      internalID: -1984608895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_192
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978aae07eb6073f4bad953af93ed80af
+      internalID: 1989845213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4befb5101cd61e04d89023bcb8f940ab
+      internalID: 798483255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_194
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069a22b97b6a2d4e91077313b66ec71
+      internalID: -1840141952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_195
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e739028a1f48ed479487b9c15cc4d75
+      internalID: 330792136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94f3f49a3f6ef42bce143ca56f7fb6
+      internalID: 824945314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_197
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 456
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b740c80aa3aa8419a188a78acf85ce
+      internalID: -902590839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befe1f9c0c282a44d9a906f68fc07c8d
+      internalID: 596070174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_199
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902245dca83ab3e4f9a9648be13b2d54
+      internalID: 680112738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_200
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf766cf577a45e47a63e57fa6c5221f
+      internalID: 1810113106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdfc22fcaf84d34c93861c14647348d
+      internalID: -1958967199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_202
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b27509561fb3469e27ff7b661d41a
+      internalID: -1522082490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425f349ebb6d0046b74f50d2ce66326
+      internalID: -1744157998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab7ea58522b91046afb2b152017c4e1
+      internalID: 884955746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_205
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8861b9db4c7e4e8dbb80bd7fc18dc
+      internalID: 25750307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_206
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ec9cb4a28a5c4295e87cceafcd311
+      internalID: -2080845861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_207
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59b2aa6017b224ead10b8c97479a0c
+      internalID: 1195981586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_208
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a6bf69f38b79941b9d8b67096ab18e
+      internalID: -1918447606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1c878678560034eb1a11a8b71d44d0
+      internalID: 1936976812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07277cca9e9efd84b8e25f5418dd9fca
+      internalID: -283811913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_211
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2527822ba0c8b1e4fa8c64d54da5dfbe
+      internalID: 444273559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_212
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a95e524bcf36458a9bf98c42c513a
+      internalID: -1170935545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4370e9c0449ac43a4930f32c69c532
+      internalID: -1621099721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_214
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 432
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9282c6620314e524d98a1ec74ba2b133
+      internalID: -2058499080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a660dfbf4734dea45abc53441137fe46
+      internalID: -1509157138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_216
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd2f26f17c8cc428954b6c0c3cdfb8
+      internalID: 529397721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_217
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df771d567154f2745bd580ce6e1dc7f8
+      internalID: -2095831295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bebfa025261b34597eaefbe57142df
+      internalID: -249509344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_219
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c55028a7d570a4bac28dd1b81a445e
+      internalID: -155026045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c475e323557b8084581ab4364864f490
+      internalID: 491076788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_221
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2444ea378e3f6d84cadcf88401d34a4b
+      internalID: -297129858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_222
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6ef69c8cd66f49b7a881d5a86fd4a
+      internalID: 189444551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_223
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b9d5d2062643b4a9003f4ea76850a1
+      internalID: -1126113253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_224
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae98e2700b9bac47bed2992102d71df
+      internalID: -1667598991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fcf74a01bce0c41ad6893589ec178e
+      internalID: -221427800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_226
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff71d5be8d0c036478bead251b622432
+      internalID: -2074302919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_227
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f24060a49824a4f86f2f8e4b0be684
+      internalID: -2107234954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_228
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f306a020911a144a0731678f5f3d7b
+      internalID: -464707889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_229
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc9afad88ff984a981916597d563e1
+      internalID: -1194428912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b92a45e70c53924a94c4c356c24275d
+      internalID: 1054285905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_231
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a9e359c33ca4e43ac53cfec8f983f2
+      internalID: -1630147194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_232
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231fc514e9bc2848896de104eae3b33
+      internalID: -2105706240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_233
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93086e27b868b794da1fff8bb3abb9b1
+      internalID: -2108516924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_234
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b946ff8189811c4449a88a31e1652d54
+      internalID: -1911460003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac840106ed97ab34f9fee1d929fe5ba6
+      internalID: -547835963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_236
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b8754da4a43384a9cbe6ff64936aa5
+      internalID: -165787714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_237
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d811d9180fd98dc4dbf380a82db10952
+      internalID: 1133154186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_238
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38f59b4f356c2a40931e655ec82e3c0
+      internalID: 408604712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_239
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed62cd1e7b5b745bed3b5f4aab9051
+      internalID: 1071418662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_240
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea5315dd4eb92940a6458e0d9434477
+      internalID: 1218586106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375436f13781d2f4a959d938091fd57f
+      internalID: 387694182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_242
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0430ec709e62e4f9c9bfa4ed8e5e15
+      internalID: 1544602815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_243
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36afccdd970704ea0dbc463921824b
+      internalID: 22589866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a524bc48be4a4f4c8d6390120bd3f73
+      internalID: 2032182903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_245
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913fe58ea3c521543b1e1a07395ef6ee
+      internalID: 109071187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00154994edcebbd49b67af840bbd1063
+      internalID: -1386722877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_247
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a2783d6198936458efddbcf6650e5c
+      internalID: 1133440596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_248
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d378d61253ab94ca770da8271cec6f
+      internalID: -2093611581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_249
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f84c3b1d8fcd429e7a5bfa4b921d0
+      internalID: 1133203558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_250
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ace8ba1c4a6c449b2210904463c393
+      internalID: 1494813531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_251
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f0059d91a86274bb5fb85e49c1da58
+      internalID: 1902621265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_252
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 368
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f4f41a69d188e4083932c7e66b5185
+      internalID: -724500875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_253
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48708d2c02ca04faea35d5c0761c85
+      internalID: 927818074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_254
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5996b3209435ca419bf95508631f1e3
+      internalID: 170928092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_255
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 368
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336fdef743e367445a0a2725eab28167
+      internalID: -248214316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_256
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f86657100d09b14285e4fc7bc7987a7
+      internalID: -2053097570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31841b8868369e449d38c104d8d4b9b
+      internalID: 1655866964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_258
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08430ddf4d206f43a35169a7b828275
+      internalID: -728060752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_259
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ffc3f2342e86546ba517aff0f0417e
+      internalID: 558888765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_260
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c018b3f0b3cdfaf4d8755dd6e4198538
+      internalID: -985510480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_261
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541375779587c4d4e94ff21bf4f22aac
+      internalID: 1790250977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_262
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee92611d10ed043b58a70d4719a700
+      internalID: 1457670865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_263
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37a81311f96bfa4f92913249f50b97e
+      internalID: 713326237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_264
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e328434620f54da5036dbba3bda54
+      internalID: 1675413681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_265
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f760626ec61f1344944d72487ac924d
+      internalID: 517242857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_266
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f1a6be5380ad34c80ed651cf4b0eac
+      internalID: -765914714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_267
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7fc922faf0c6549a987713ffc2df38
+      internalID: -1332262526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_268
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a49e023276a984cb25cf02b86afb99
+      internalID: -670293915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_269
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d5127ce56b0214fa7d876fe218ff53
+      internalID: 91363035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_270
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592bf4e631728745b556afb620bb13e
+      internalID: -1423722113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_271
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451a2e7641e6af44bf985fcb8331e28
+      internalID: -719290996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ed9dd2389fb9498cb93b9fb45171b
+      internalID: -1634469730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_273
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197de27339dcbfe4dbd030d37b8031ba
+      internalID: 1225247736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_274
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311acc6b3168e644384e403cdea0b509
+      internalID: -805639226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_275
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e975c3fc05f394292b7d8440110c53
+      internalID: 1268041476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_276
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d2783a876b1344a7ef39c9f9a517e
+      internalID: -1340134787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_277
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16e4750d5f9cdf4d9c31cedb1e1cc8d
+      internalID: 340361390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_278
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec947412a51fb4cb20359afd81d8f6
+      internalID: -1634957887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_279
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a20d57764cd71347986f3192eb98d0e
+      internalID: -1156906481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_280
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3c89be80b807449d28b9e59ebf41c
+      internalID: 1335857919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_281
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e9e362704b23943822fdb428cb7d37
+      internalID: -1730963575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_282
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f4cf275584384a88e69a7d5a32c74
+      internalID: 1191451945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_283
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7780d84f12b0d6543818f771f7db3193
+      internalID: -1914846382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_284
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e061a6031a9a40974065927929212
+      internalID: -149150744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_285
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb7b9456c935b64abab27401b9aafcf
+      internalID: 2012796205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_286
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa15598307c37046a495cefa2931b02
+      internalID: 760958934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_287
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de16b495fb8a5c47bb8e3b6122590a4
+      internalID: -1379712518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5f5daa61c93f489784c9facc4be56
+      internalID: 2101116442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_289
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73db92cc5659b04cafd1e5d6946759e
+      internalID: -357974940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_290
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1eae0b6644ee849a32791a46b930b1
+      internalID: -1362645153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_291
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab0abcf8c977a348b19878eccb8a70d
+      internalID: -1878637443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_292
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5240c9b81be3944963344d7c81d446
+      internalID: -708339057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_293
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3f2c05355192b46a7f51d02d1acf85
+      internalID: 992962563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_294
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708863db48b09ed41a388b851e71a862
+      internalID: -1855594069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_295
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272634a89bc3184493bb5ffc3bf1086
+      internalID: 1481484435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_296
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d93b36b0ed1141a82e69318d46cbb
+      internalID: -525682240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_297
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b6a67d5266ab240b1dcb72369ca1e8
+      internalID: 1519348203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_298
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881002b150d7e2498a8e7f33723304e
+      internalID: -1677682642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_299
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f92a2c9bbcba94ab6615733c156cae
+      internalID: -853148757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_300
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac225e7ca68ccc40bfbeee7a46b16c1
+      internalID: -1871098795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_301
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf6286e1fa73334d977158a45eae072
+      internalID: -640733218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_302
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e83d037a537a479936cc8a9247827
+      internalID: 1372210322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_303
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb0c0e29ae1b2e4a8a5774dc33045d2
+      internalID: 1568508562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_304
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e568a63d2305bf745abbe6d94c11759d
+      internalID: -762943351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_305
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70036bf42c9d6044d8f5187a3138d1d0
+      internalID: -1699284293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_306
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563c735eee146db4988549f0f4902d0a
+      internalID: -205184307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_307
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 288
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d1babfc6de234592d3545764d5acb
+      internalID: 272187292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_308
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8fe8a405e6ae34484cb5ee2e0fd2df
+      internalID: 1527134540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_309
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f39948e2c54cc48ac74427b25c13e5
+      internalID: 1128702439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_310
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c044c803750294ea5f285e445ce633
+      internalID: 1248269264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_311
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a9952c66ea35f429a27a9150679ce1
+      internalID: -2117188010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_312
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9781f696b0101e045a6af5633a222835
+      internalID: 312626676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_313
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54881d2e7d3ddc74198ac36549277ab8
+      internalID: -1293847785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_314
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab32fff0ffbf547a258f0bc9413727
+      internalID: 1342466620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_315
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b6d1936619e3f42a0acf9a011f0126
+      internalID: -135826367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_316
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2b0cccc56487140b8c01a8e1120e75
+      internalID: -1322096149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_317
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8256e05c613ca4286ab307ec0ea921
+      internalID: 548295814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_318
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c96392955165564c98e151c7f82d852
+      internalID: 1735909263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_319
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321da6d3a316b0041ab82225c31c7ffe
+      internalID: 1445772068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_320
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205c812eded0e245881f718392405f6
+      internalID: 716029594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_321
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9027c49d1f7b8cb478c8019137bf52e9
+      internalID: -1829204764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars8x8dEncounters_322
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4e463fcdcd8b04ca639166c0308bcd
+      internalID: -369667044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7adb7ce39b16c814791139ca3d9c1b53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":8.0,"y":8.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      chars8x8dEncounters_0: 8909491235188689814
+      chars8x8dEncounters_1: -2295192019544134849
+      chars8x8dEncounters_10: -6027431683774201222
+      chars8x8dEncounters_100: -1037110082
+      chars8x8dEncounters_101: 358513688
+      chars8x8dEncounters_102: -332672056
+      chars8x8dEncounters_103: 586817473
+      chars8x8dEncounters_104: -1495899810
+      chars8x8dEncounters_105: -2126499090
+      chars8x8dEncounters_106: -802848298
+      chars8x8dEncounters_107: -616520828
+      chars8x8dEncounters_108: 833975692
+      chars8x8dEncounters_109: -1251507487
+      chars8x8dEncounters_11: -8042134186477496552
+      chars8x8dEncounters_110: 709882796
+      chars8x8dEncounters_111: 175003898
+      chars8x8dEncounters_112: 1505862965
+      chars8x8dEncounters_113: 1905796521
+      chars8x8dEncounters_114: -741426838
+      chars8x8dEncounters_115: -810814423
+      chars8x8dEncounters_116: 2124612017
+      chars8x8dEncounters_117: 1076457041
+      chars8x8dEncounters_118: -541377783
+      chars8x8dEncounters_119: -30329150
+      chars8x8dEncounters_12: -2211722507063255870
+      chars8x8dEncounters_120: 2011149573
+      chars8x8dEncounters_121: -677104020
+      chars8x8dEncounters_122: 55771679
+      chars8x8dEncounters_123: -493992138
+      chars8x8dEncounters_124: -2006653839
+      chars8x8dEncounters_125: -141639840
+      chars8x8dEncounters_126: 1754663490
+      chars8x8dEncounters_127: -760851366
+      chars8x8dEncounters_128: 1164875302
+      chars8x8dEncounters_129: -870308382
+      chars8x8dEncounters_13: 3968518828548982432
+      chars8x8dEncounters_130: 1528145739
+      chars8x8dEncounters_131: 1702357800
+      chars8x8dEncounters_132: -1328587947
+      chars8x8dEncounters_133: 1541425092
+      chars8x8dEncounters_134: -244190808
+      chars8x8dEncounters_135: 2097133307
+      chars8x8dEncounters_136: -1333166091
+      chars8x8dEncounters_137: 1935227601
+      chars8x8dEncounters_138: -664402405
+      chars8x8dEncounters_139: -222145886
+      chars8x8dEncounters_14: 2214108358250891029
+      chars8x8dEncounters_140: 913839121
+      chars8x8dEncounters_141: -2072667189
+      chars8x8dEncounters_142: -64571524
+      chars8x8dEncounters_143: 1820571001
+      chars8x8dEncounters_144: -317106113
+      chars8x8dEncounters_145: -778605335
+      chars8x8dEncounters_146: -481453238
+      chars8x8dEncounters_147: 1000210657
+      chars8x8dEncounters_148: 151881835
+      chars8x8dEncounters_149: -1726761244
+      chars8x8dEncounters_15: -2966452454331058587
+      chars8x8dEncounters_150: -1993395933
+      chars8x8dEncounters_151: -264168846
+      chars8x8dEncounters_152: 811327390
+      chars8x8dEncounters_153: 916031683
+      chars8x8dEncounters_154: -1343072564
+      chars8x8dEncounters_155: 1905003232
+      chars8x8dEncounters_156: 1759025321
+      chars8x8dEncounters_157: -1515617280
+      chars8x8dEncounters_158: 981643134
+      chars8x8dEncounters_159: 143278042
+      chars8x8dEncounters_16: 5217166145251738547
+      chars8x8dEncounters_160: -1702008337
+      chars8x8dEncounters_161: -1014879461
+      chars8x8dEncounters_162: -1980227019
+      chars8x8dEncounters_163: 1900806895
+      chars8x8dEncounters_164: 737084478
+      chars8x8dEncounters_165: -1773717304
+      chars8x8dEncounters_166: -112421885
+      chars8x8dEncounters_167: 1252483676
+      chars8x8dEncounters_168: 1581667378
+      chars8x8dEncounters_169: 1386614503
+      chars8x8dEncounters_17: -7650677635302135314
+      chars8x8dEncounters_170: 964732389
+      chars8x8dEncounters_171: 1078081805
+      chars8x8dEncounters_172: 1259680549
+      chars8x8dEncounters_173: 1191305252
+      chars8x8dEncounters_174: -563629954
+      chars8x8dEncounters_175: -13685018
+      chars8x8dEncounters_176: -1644751455
+      chars8x8dEncounters_177: 1512510373
+      chars8x8dEncounters_178: -1172327735
+      chars8x8dEncounters_179: -1760476885
+      chars8x8dEncounters_18: 7357857972237292374
+      chars8x8dEncounters_180: 1723239372
+      chars8x8dEncounters_181: 64092881
+      chars8x8dEncounters_182: -879990233
+      chars8x8dEncounters_183: 547910315
+      chars8x8dEncounters_184: -1670289818
+      chars8x8dEncounters_185: 115513304
+      chars8x8dEncounters_186: -1850455893
+      chars8x8dEncounters_187: 1993346775
+      chars8x8dEncounters_188: -1724760977
+      chars8x8dEncounters_189: 2136636560
+      chars8x8dEncounters_19: -3155352544933784446
+      chars8x8dEncounters_190: -1842377382
+      chars8x8dEncounters_191: -1984608895
+      chars8x8dEncounters_192: 1989845213
+      chars8x8dEncounters_193: 798483255
+      chars8x8dEncounters_194: -1840141952
+      chars8x8dEncounters_195: 330792136
+      chars8x8dEncounters_196: 824945314
+      chars8x8dEncounters_197: -902590839
+      chars8x8dEncounters_198: 596070174
+      chars8x8dEncounters_199: 680112738
+      chars8x8dEncounters_2: 8310742485779032268
+      chars8x8dEncounters_20: -1231362362373973546
+      chars8x8dEncounters_200: 1810113106
+      chars8x8dEncounters_201: -1958967199
+      chars8x8dEncounters_202: -1522082490
+      chars8x8dEncounters_203: -1744157998
+      chars8x8dEncounters_204: 884955746
+      chars8x8dEncounters_205: 25750307
+      chars8x8dEncounters_206: -2080845861
+      chars8x8dEncounters_207: 1195981586
+      chars8x8dEncounters_208: -1918447606
+      chars8x8dEncounters_209: 1936976812
+      chars8x8dEncounters_21: -3397564780970447938
+      chars8x8dEncounters_210: -283811913
+      chars8x8dEncounters_211: 444273559
+      chars8x8dEncounters_212: -1170935545
+      chars8x8dEncounters_213: -1621099721
+      chars8x8dEncounters_214: -2058499080
+      chars8x8dEncounters_215: -1509157138
+      chars8x8dEncounters_216: 529397721
+      chars8x8dEncounters_217: -2095831295
+      chars8x8dEncounters_218: -249509344
+      chars8x8dEncounters_219: -155026045
+      chars8x8dEncounters_22: 6982231829822186656
+      chars8x8dEncounters_220: 491076788
+      chars8x8dEncounters_221: -297129858
+      chars8x8dEncounters_222: 189444551
+      chars8x8dEncounters_223: -1126113253
+      chars8x8dEncounters_224: -1667598991
+      chars8x8dEncounters_225: -221427800
+      chars8x8dEncounters_226: -2074302919
+      chars8x8dEncounters_227: -2107234954
+      chars8x8dEncounters_228: -464707889
+      chars8x8dEncounters_229: -1194428912
+      chars8x8dEncounters_23: -142473687168936327
+      chars8x8dEncounters_230: 1054285905
+      chars8x8dEncounters_231: -1630147194
+      chars8x8dEncounters_232: -2105706240
+      chars8x8dEncounters_233: -2108516924
+      chars8x8dEncounters_234: -1911460003
+      chars8x8dEncounters_235: -547835963
+      chars8x8dEncounters_236: -165787714
+      chars8x8dEncounters_237: 1133154186
+      chars8x8dEncounters_238: 408604712
+      chars8x8dEncounters_239: 1071418662
+      chars8x8dEncounters_24: -6272237930008219461
+      chars8x8dEncounters_240: 1218586106
+      chars8x8dEncounters_241: 387694182
+      chars8x8dEncounters_242: 1544602815
+      chars8x8dEncounters_243: 22589866
+      chars8x8dEncounters_244: 2032182903
+      chars8x8dEncounters_245: 109071187
+      chars8x8dEncounters_246: -1386722877
+      chars8x8dEncounters_247: 1133440596
+      chars8x8dEncounters_248: -2093611581
+      chars8x8dEncounters_249: 1133203558
+      chars8x8dEncounters_25: -3355014029662031999
+      chars8x8dEncounters_250: 1494813531
+      chars8x8dEncounters_251: 1902621265
+      chars8x8dEncounters_252: -724500875
+      chars8x8dEncounters_253: 927818074
+      chars8x8dEncounters_254: 170928092
+      chars8x8dEncounters_255: -248214316
+      chars8x8dEncounters_256: -2053097570
+      chars8x8dEncounters_257: 1655866964
+      chars8x8dEncounters_258: -728060752
+      chars8x8dEncounters_259: 558888765
+      chars8x8dEncounters_26: -6485522511929216485
+      chars8x8dEncounters_260: -985510480
+      chars8x8dEncounters_261: 1790250977
+      chars8x8dEncounters_262: 1457670865
+      chars8x8dEncounters_263: 713326237
+      chars8x8dEncounters_264: 1675413681
+      chars8x8dEncounters_265: 517242857
+      chars8x8dEncounters_266: -765914714
+      chars8x8dEncounters_267: -1332262526
+      chars8x8dEncounters_268: -670293915
+      chars8x8dEncounters_269: 91363035
+      chars8x8dEncounters_27: -3821402981279363456
+      chars8x8dEncounters_270: -1423722113
+      chars8x8dEncounters_271: -719290996
+      chars8x8dEncounters_272: -1634469730
+      chars8x8dEncounters_273: 1225247736
+      chars8x8dEncounters_274: -805639226
+      chars8x8dEncounters_275: 1268041476
+      chars8x8dEncounters_276: -1340134787
+      chars8x8dEncounters_277: 340361390
+      chars8x8dEncounters_278: -1634957887
+      chars8x8dEncounters_279: -1156906481
+      chars8x8dEncounters_28: 5225263332443534401
+      chars8x8dEncounters_280: 1335857919
+      chars8x8dEncounters_281: -1730963575
+      chars8x8dEncounters_282: 1191451945
+      chars8x8dEncounters_283: -1914846382
+      chars8x8dEncounters_284: -149150744
+      chars8x8dEncounters_285: 2012796205
+      chars8x8dEncounters_286: 760958934
+      chars8x8dEncounters_287: -1379712518
+      chars8x8dEncounters_288: 2101116442
+      chars8x8dEncounters_289: -357974940
+      chars8x8dEncounters_29: -1522016782586257465
+      chars8x8dEncounters_290: -1362645153
+      chars8x8dEncounters_291: -1878637443
+      chars8x8dEncounters_292: -708339057
+      chars8x8dEncounters_293: 992962563
+      chars8x8dEncounters_294: -1855594069
+      chars8x8dEncounters_295: 1481484435
+      chars8x8dEncounters_296: -525682240
+      chars8x8dEncounters_297: 1519348203
+      chars8x8dEncounters_298: -1677682642
+      chars8x8dEncounters_299: -853148757
+      chars8x8dEncounters_3: 4097091263648709811
+      chars8x8dEncounters_30: 8943056511543908250
+      chars8x8dEncounters_300: -1871098795
+      chars8x8dEncounters_301: -640733218
+      chars8x8dEncounters_302: 1372210322
+      chars8x8dEncounters_303: 1568508562
+      chars8x8dEncounters_304: -762943351
+      chars8x8dEncounters_305: -1699284293
+      chars8x8dEncounters_306: -205184307
+      chars8x8dEncounters_307: 272187292
+      chars8x8dEncounters_308: 1527134540
+      chars8x8dEncounters_309: 1128702439
+      chars8x8dEncounters_31: -2196479516139277613
+      chars8x8dEncounters_310: 1248269264
+      chars8x8dEncounters_311: -2117188010
+      chars8x8dEncounters_312: 312626676
+      chars8x8dEncounters_313: -1293847785
+      chars8x8dEncounters_314: 1342466620
+      chars8x8dEncounters_315: -135826367
+      chars8x8dEncounters_316: -1322096149
+      chars8x8dEncounters_317: 548295814
+      chars8x8dEncounters_318: 1735909263
+      chars8x8dEncounters_319: 1445772068
+      chars8x8dEncounters_32: -6730543598317786362
+      chars8x8dEncounters_320: 716029594
+      chars8x8dEncounters_321: -1829204764
+      chars8x8dEncounters_322: -369667044
+      chars8x8dEncounters_33: -6761389842050355918
+      chars8x8dEncounters_34: -6620194018321522562
+      chars8x8dEncounters_35: 217368847580807732
+      chars8x8dEncounters_36: -1585568084841615468
+      chars8x8dEncounters_37: -6308146221691217303
+      chars8x8dEncounters_38: 489729940317531756
+      chars8x8dEncounters_39: 5149777802808098218
+      chars8x8dEncounters_4: -6319628349210318423
+      chars8x8dEncounters_40: -4491079450034750978
+      chars8x8dEncounters_41: -6233400458199089039
+      chars8x8dEncounters_42: 8947635130817468486
+      chars8x8dEncounters_43: 1229510414989194495
+      chars8x8dEncounters_44: 8295077798899950607
+      chars8x8dEncounters_45: 5480078174909958472
+      chars8x8dEncounters_46: -4989534261765839048
+      chars8x8dEncounters_47: 2617951712229226248
+      chars8x8dEncounters_48: -6107039025106839913
+      chars8x8dEncounters_49: 2471683849256292527
+      chars8x8dEncounters_5: 651911764621924486
+      chars8x8dEncounters_50: -2400903020512534438
+      chars8x8dEncounters_51: 216940135789147453
+      chars8x8dEncounters_52: -661925067480711458
+      chars8x8dEncounters_53: -7975895815169613113
+      chars8x8dEncounters_54: 6486896729887814806
+      chars8x8dEncounters_55: 2025456941228718530
+      chars8x8dEncounters_56: -7754469974335313494
+      chars8x8dEncounters_57: -2229776411857931135
+      chars8x8dEncounters_58: 6110897549602949039
+      chars8x8dEncounters_59: -1746205393644493992
+      chars8x8dEncounters_6: -8802398970037816943
+      chars8x8dEncounters_60: 8041244023651300870
+      chars8x8dEncounters_61: 8496266517280234751
+      chars8x8dEncounters_62: 8959524934396380429
+      chars8x8dEncounters_63: 5864126500310137317
+      chars8x8dEncounters_64: 5354625710561832462
+      chars8x8dEncounters_65: -6657070906446564794
+      chars8x8dEncounters_66: -5638908730215887958
+      chars8x8dEncounters_67: 2315589647925876172
+      chars8x8dEncounters_68: -5119581639594776101
+      chars8x8dEncounters_69: 167256345
+      chars8x8dEncounters_7: -1183705102244584140
+      chars8x8dEncounters_70: -2036399241
+      chars8x8dEncounters_71: 982042678
+      chars8x8dEncounters_72: 1781944067
+      chars8x8dEncounters_73: 1652390182
+      chars8x8dEncounters_74: 442603039
+      chars8x8dEncounters_75: 2095066109
+      chars8x8dEncounters_76: -1097471754
+      chars8x8dEncounters_77: 860958366
+      chars8x8dEncounters_78: 1506899438
+      chars8x8dEncounters_79: -682347372
+      chars8x8dEncounters_8: -5941382369263704294
+      chars8x8dEncounters_80: 464550411
+      chars8x8dEncounters_81: -479625672
+      chars8x8dEncounters_82: -566640322
+      chars8x8dEncounters_83: 862699010
+      chars8x8dEncounters_84: 1275738005
+      chars8x8dEncounters_85: 1673417737
+      chars8x8dEncounters_86: 1121352936
+      chars8x8dEncounters_87: -943626425
+      chars8x8dEncounters_88: -284161769
+      chars8x8dEncounters_89: -2111430436
+      chars8x8dEncounters_9: 277442615628192553
+      chars8x8dEncounters_90: -736218211
+      chars8x8dEncounters_91: 718955155
+      chars8x8dEncounters_92: 1481481153
+      chars8x8dEncounters_93: -1715520996
+      chars8x8dEncounters_94: 1552953143
+      chars8x8dEncounters_95: -1051183403
+      chars8x8dEncounters_96: 565563064
+      chars8x8dEncounters_97: 443905348
+      chars8x8dEncounters_98: 261350700
+      chars8x8dEncounters_99: -151581261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
